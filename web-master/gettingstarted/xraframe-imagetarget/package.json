@@ -1,0 +1,14 @@
+{
+  "name": "xraframe-imagetarget",
+  "version": "1.0.0",
+  "description": "AR projecto for eeee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "workbox-sw": "^4.3.1"
+  }
+}
